@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @KalpanaUpadhyay
+- 👋 Hi, I’m Kalpana Upadhyay
 - 🌱 I’m currently learning latest tech stuffs
+- How to reach me?
+- Mail me at : kalpanaupadhyay2801@gmail.com
 
 
 <!---
