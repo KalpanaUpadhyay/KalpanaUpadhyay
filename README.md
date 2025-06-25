@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning latest tech stuffs
 - How to reach me?
 - Mail me at : kalpanaupadhyay2801@gmail.com
+- Basics of me : https://kalpanaupadhyay.github.io/Know-Me/
 
 
 <!---
